@@ -2,3 +2,5 @@
 2010006
 i7
 asus
+
+COMPONENTI
